@@ -1,4 +1,4 @@
-# Library Management System <img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/b7065773-74a3-4456-a91a-f0c02cf0d5b5" />
+# Library Management System 
 
 
 A **small-scale Java project** that simulates a library management system using **Object-Oriented Programming (OOP)** concepts and **Java Collections**.  
