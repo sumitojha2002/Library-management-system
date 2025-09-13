@@ -35,18 +35,17 @@ This project allows users to manage books and library members, including adding,
 ---
 
 ## Project Structure
-
+```
 Library-Management-System/
-│
 ├─ models/
-│ ├─ Book.java
-│ └─ User.java
-│
+│  ├─ Book.java
+│  └─ User.java
 ├─ services/
-│ ├─ LibraryService.java
-│ └─ UserService.java
-│
+│  ├─ LibraryService.java
+│  └─ UserService.java
 └─ Main.java
+```
+
 
 - **models**: Contains the data models (`Book` and `User`).  
 - **services**: Contains business logic for handling books and users.  
